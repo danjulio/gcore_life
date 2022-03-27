@@ -1,0 +1,5 @@
+source "/Users/danjulio/esp/esp-idf-v4.2.2/components/efuse/Kconfig"
+source "/Users/danjulio/esp/esp-idf-v4.2.2/components/esp32/Kconfig"
+source "/Users/danjulio/esp/esp-idf-v4.2.2/components/esp_common/Kconfig"
+source "/Users/danjulio/esp/esp-idf-v4.2.2/components/log/Kconfig"
+source "/Users/danjulio/esp/esp-idf-v4.2.2/components/spi_flash/Kconfig"
