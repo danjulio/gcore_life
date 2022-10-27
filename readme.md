@@ -2,7 +2,7 @@
 
 ![Life on gCore](pictures/gcore_life.png)
 
-A tribute to John Conway who wrote one of the quintessential computer programs.  An interactive game of Life running on [gCore](https://github.com/danjulio/gCore2) using version 6.1.2 of the LVGL graphics library (back when it had cool pre-defined themes).
+A tribute to John Conway who wrote one of the quintessential computer programs.  An interactive game of Life running on [gCore](https://github.com/danjulio/gCore) using version 6.1.2 of the LVGL graphics library (back when it had cool pre-defined themes).
 
 Click the Pencil icon to edit the field or add predefined objects from the drop-down menu.
 
