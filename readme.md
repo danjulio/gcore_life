@@ -6,7 +6,7 @@ A tribute to John Conway who wrote one of the quintessential computer programs. 
 
 Click the Pencil icon to edit the field or add predefined objects from the drop-down menu.
 
-Compiled with Espressif IDF v4.2 although it should work with other versions.
+Compiled with Espressif IDF v4.4.4 although it should work with other versions.
 
 Build the project using the command ```idf.py build```.
 	

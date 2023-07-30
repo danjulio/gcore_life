@@ -55,6 +55,7 @@ esp_err_t i2c_master_init()
     conf.scl_io_num = 22;
     conf.scl_pullup_en = GPIO_PULLUP_ENABLE;
     conf.master.clk_speed = 100000;
+    conf.clk_flags = 0;
     
     i2c_param_config(i2c_master_port, &conf);
     
